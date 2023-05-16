@@ -3,11 +3,10 @@
 - This is my first JavaScript work. I tried to make a simple digital clock by using Javascript. 
 
 ### See how it looks!
-Live Site Url --> [Here]()
+Live Site Url --> [Here]( https://ozlemxates.github.io/Digital-Clock/)
 
 ### ScreenShot
-- ![SS](ss-of-the-site.jpg =300x)
-
+- ![](img/ss-of-the-site.jpg)
 ### Built With
 - HTML
 - CSS Flex
