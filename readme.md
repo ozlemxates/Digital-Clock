@@ -6,7 +6,7 @@
 Live Site Url --> [Here]()
 
 ### ScreenShot
-![Alt text](ss-of-the-site.jpg =300x)
+![Alt text](C:\Users\bende\OneDrive\Desktop\js-kodluyoruz\ss-of-the-site.jpg =300x)
 
 ### Built With
 - HTML
